@@ -1,0 +1,29 @@
+package com.credible.response;
+
+import com.credible.model.PostQueries;
+import com.credible.model.PostQueriesAssign;
+
+
+
+
+public class AnsweredPostQueries 
+{
+	public PostQueries postQueries;
+	public PostQueriesAssign postQueriesAssign;
+
+	public PostQueries getPostQueries() {
+		return postQueries;
+	}
+
+	public void setPostQueries(PostQueries postQueries) {
+		this.postQueries = postQueries;
+	}
+
+	public PostQueriesAssign getPostQueriesAssign() {
+		return postQueriesAssign;
+	}
+
+	public void setPostQueriesAssign(PostQueriesAssign postQueriesAssign) {
+		this.postQueriesAssign = postQueriesAssign;
+	}
+}
