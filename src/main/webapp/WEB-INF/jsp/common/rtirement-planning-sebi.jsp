@@ -4,6 +4,40 @@
 
 
 <style>
+	
+
+	.nav-tabs > li.active a {
+		    color: #fff;
+		    background-color: #F9A003;
+		    border-color: #F9A003;
+		    padding: 10px 60px;
+		    border-radius: 10px;
+		    font-size: 18px;
+		}
+		.nav-tabs > li a {
+		    color: #ccccc;
+		    background-color:#fff;
+		    border-color: #cccccc;
+		    padding: 10px 60px;
+		    border-radius: 10px;
+		    font-size: 18px;
+		}
+		.nav-tabs > li.active a, .nav-tabs > li.active a:hover, .nav-tabs > li.active a:focus {
+		    color: #fff;
+		    background-color: #F9A003;
+		}
+		
+		.nav-tabs > li.active a, .nav-tabs > li.active a:hover{
+			background-color: #F9A003;
+			color:#fff;
+			
+		}
+		
+		.nav-tabs > li > a:hover, .nav-tabs > li > a:focus{
+			color:#fff !important;
+			background-color: #F9A003 !important;
+		}
+
 
 .breadcrumb li a {
     color: #fff;
@@ -92,7 +126,251 @@
       </div>
     </section>
 	
-	<section>
+	
+	<!-- Section: service-->
+	   <section class="pt-50 pb-50">
+		<div class="container p-30">
+			<div class="row">
+	        	<div class="col-md-12">
+	        
+	          		<ul class="nav nav-tabs  ">
+						<li class="active pb-20 capital">
+	            			<a href="#1" data-toggle="tab">Planning for the unmarried</a>
+						</li>
+					     <li class="pb-20" style="margin-left:15px;">
+							<a href="#2 " data-toggle="tab">Planning for the married</a>
+						</li>
+						<li class=" pb-20" style="margin-left:15px;">
+							<a href="#3" data-toggle="tab">Cost of delay </a>
+						</li>
+						<li class="pb-20" style="margin-left:15px;">
+							<a href="#4" data-toggle="tab">Retirement funding tracker </a>
+						</li>
+						<li class="pb-20" style="margin-left:15px;">
+							<a href="#5" data-toggle="tab">For seniors only </a>
+						</li>
+					</ul>
+					<div class="tab-content ">
+			  			<div class="tab-pane active" id="1">
+							<img class="img-fluid" src="/images/about/financial-retirement.png">
+							<p>You should have a retirement plan in advance, so that when you retire from work, you continue to maintain the same life-style without worrying about expenses and inflation. A retirement plan helps you to pursue your post-retirement dreams and to secure your future.</p>
+							<h4 class="mt-20">Some tips for Your Retirement Planning:</h4>
+							<ul>
+								<li>Saving early for retirement gives money more time to grow and compound. This ensures availability of a large lump sum on your retirement.</li>
+								<li>Make sure you save enough to cover unplanned expenses and emergencies. Ensure that you have adequate insurance policies to cover unforeseen events and medical emergencies to secure your family and loved ones.</li>
+							</ul>										
+							<img class="img-fluid" src="/images/about/financial-bird.png">
+
+							<ul>
+											<li>It is desirable to diversify your investments across different asset class so that if one asset class does not perform, you can get returns from other asset class. Put it simply, don't keep all your eggs in one basket.</li>
+											<li>Choose your plan keeping in mind your retirement goals and lifestyle.
+											You may contact a regulated financial advisor to guide you through the retirement planning process who will help you find the best retirement plans for you.</li>
+										</ul>
+
+										<h4>Download pdf here</h4>
+										<a href="/images/pdf/retirement-planning-calculator.pdf"><img src="/images/about/pdf.webp" width="200px"></a>			  
+									  
+						</div>
+						
+						<div class="tab-pane" id="2">
+							<img class="img-fluid" src="/images/about/financial-retirement.png">
+														<p>You should have a retirement plan in advance, so that when you retire from work, you continue to maintain the same life-style without worrying about expenses and inflation. A retirement plan helps you to pursue your post-retirement dreams and to secure your future.</p>
+														<h4 class="mt-20">Some tips for Your Retirement Planning:</h4>
+														<ul>
+															<li>Saving early for retirement gives money more time to grow and compound. This ensures availability of a large lump sum on your retirement.</li>
+															<li>Make sure you save enough to cover unplanned expenses and emergencies. Ensure that you have adequate insurance policies to cover unforeseen events and medical emergencies to secure your family and loved ones.</li>
+														</ul>										
+														<img class="img-fluid" src="/images/about/financial-bird.png">
+
+														<ul>
+																		<li>It is desirable to diversify your investments across different asset class so that if one asset class does not perform, you can get returns from other asset class. Put it simply, don't keep all your eggs in one basket.</li>
+																		<li>Choose your plan keeping in mind your retirement goals and lifestyle.
+																		You may contact a regulated financial advisor to guide you through the retirement planning process who will help you find the best retirement plans for you.</li>
+																	</ul>
+
+																	<h4>Download pdf here</h4>
+																	<a href="/images/pdf/retirement-planning-calculator.pdf"><img src="/images/about/pdf.webp" width="200px"></a>			  
+							
+							 
+							
+						</div>
+						
+						<div class="tab-pane " id="3">
+							<p>
+							        The cost of delaying investments is the potential wealth you lose by
+							        postponing your savings. Every year you delay investing reduces the time
+							        available for your money to benefit from the power of compounding. As a
+							        result, you may need to save significantly more later in life to achieve
+							        the same financial goals.
+							    </p>
+
+							    <h4 class="pt-20">Quantifying the Cost of a 10-Year Delay</h4>
+
+							    <p>
+							        To understand the impact of delaying investments, consider two hypothetical
+							        investors who both plan to retire at the age of 60. Both invest
+							        <strong>INR 500 per month</strong> and earn an assumed
+							        <strong>8% average annual return</strong>, compounded monthly. The only
+							        difference is that one investor starts investing 10 years earlier.
+							    </p>
+								<div class="table-responsive">
+								    <table class="table delay-table">
+								        <thead>
+								            <tr>
+								                <th width="35%">Metric</th>
+								                <th width="32.5%">
+								                    Investor A
+								                    <span>(Starts at Age 30)</span>
+								                </th>
+								                <th width="32.5%">
+								                    Investor B
+								                    <span>(Starts at Age 40)</span>
+								                </th>
+								            </tr>
+								        </thead>
+
+								        <tbody>
+								            <tr>
+								                <td><strong>Monthly Contribution</strong></td>
+								                <td>INR 500</td>
+								                <td>INR 500</td>
+								            </tr>
+
+								            <tr>
+								                <td><strong>Investing Timeline</strong></td>
+								                <td>30 years</td>
+								                <td>20 years</td>
+								            </tr>
+
+								            <tr>
+								                <td><strong>Total Out-of-Pocket Invested</strong></td>
+								                <td>INR 180,000</td>
+								                <td>INR 120,000</td>
+								            </tr>
+
+								            <tr>
+								                <td><strong>Final Portfolio Value at Age 60</strong></td>
+								                <td><strong>INR 750,147</strong></td>
+								                <td><strong>INR 296,473</strong></td>
+								            </tr>
+								        </tbody>
+								    </table>
+								</div>
+								
+
+								    
+
+								    <p> <strong> The Total Cost of Delay </strong>
+								        Investor B finishes with INR 453,674 less wealth, despite only saving INR 60,000 less out-of-pocket.
+								    </p>
+
+								    <h4 class="pt-20">Identifying Why Delaying Costs You Wealth</h4>
+
+								    <ul>
+								        <li>
+								            <strong>Compounding Curve Suppression:</strong>
+								            Compounding growth is exponential, meaning the biggest gains occur during the final years of investing.
+								        </li>
+
+								        <li>
+								            <strong>Higher Required Principal:</strong>
+								            Waiting forces you to invest significantly larger monthly amounts to achieve the same financial goal as an early investor.
+								        </li>
+
+								        <li>
+								            <strong>Inflation Purchasing Power Erosion:</strong>
+								            Cash kept idle gradually loses purchasing power as the cost of goods and services rises over time.
+								        </li>
+
+								        <li>
+								            <strong>Missed Market Cycles:</strong>
+								            Delaying investments may cause you to miss opportunities to invest during market downturns when valuations are lower.
+								        </li>
+								    </ul>
+
+								    <h4 class="pt-20">Executing a Strategy to Reclaim Lost Time</h4>
+
+								    <p>
+								        If you are starting your investment journey later than planned, consider the following steps to reduce the financial gap:
+								    </p>
+
+								    <ol>
+								        <li>
+								            <strong>Calculate Your Target Deficit:</strong>
+								            Determine your financial goal and use an investment calculator to estimate the monthly amount required.
+								        </li>
+
+								        <li>
+								            <strong>Maximize Tax-Advantaged Catch-Up Contributions:</strong>
+								            Make use of applicable catch-up contribution limits available to eligible investors.
+								        </li>
+
+								        <li>
+								            <strong>Automate Your Monthly Investments:</strong>
+								            Set up automatic investment transfers to maintain consistency and avoid emotional decision-making.
+								        </li>
+
+								        <li>
+								            <strong>Optimize Asset Allocation:</strong>
+								            Ensure your portfolio maintains an appropriate balance between equity and debt investments based on your goals and risk profile.
+								        </li>
+								    </ol>
+
+									<h4>Download pdf here</h4>
+															
+								<a href="/images/pdf/cost-of-delay-calculator.pdf"><img src="/images/about/pdf.webp" width="200px"></a>
+						</div>
+						<div class="tab-pane " id="4">
+							<p>To track and hit your retirement goals effectively, you should use a mix of specialized digital goal trackers, benchmark milestones based on your salary, and a structured math framework to ensure your savings outpace inflation.</p>
+						<p><a href="https://www.pgimindia.com/moneyandme/financial-planning-persona4/articles/Are-You-On-Track-With-Your-Retirement-Goals">1</a> | <a href="https://www.investopedia.com/articles/personal-finance/011916/best-retirementplanning-apps.asp">2</a> | <a href="youtube.com/watch?v=23gdLRzVlAk&t=169">3</a> | <a href="https://www.hdfclife.com/retirement-and-pension-plans/retirement-calculator?srsltid=AfmBOoq6hjxhcPUEs185bk-bbRgIyKohgDGwTt7-xGfQFMdcYw2TwlIJ">4</a></p>
+						<p>Here is an end-to-end framework to build, track, and optimize your retirement goal tracker.</p>
+						<h4 class="pt-20">2. Measure Progress via Age-Based Savings Benchmarks</h4>
+						<p>A quick way to check if your goal tracking is on target without deep math is using annual income multipliers. According to standard fidelity and financial guidelines:</p>
+						<p><a href="https://www.pgimindia.com/moneyandme/financial-planning-persona4/articles/Are-You-On-Track-With-Your-Retirement-Goals"> Pgimindia Retirement Goal</a></p>
+						
+						    <div class="table-responsive">
+						        <table class="table milestone-table">
+						            <thead>
+						                <tr>
+						                    <th width="30%">Current Age</th>
+						                    <th width="70%">Target Savings Milestone</th>
+						                </tr>
+						            </thead>
+						            <tbody>
+						                <tr>
+						                    <td><strong>Age 30</strong></td>
+						                    <td>1X of your current annual salary</td>
+						                </tr>
+						                <tr>
+						                    <td><strong>Age 40</strong></td>
+						                    <td>3X of your current annual salary</td>
+						                </tr>
+						                <tr>
+						                    <td><strong>Age 50</strong></td>
+						                    <td>5X of your current annual salary</td>
+						                </tr>
+						                <tr>
+						                    <td><strong>Age 60</strong></td>
+						                    <td>7X of your current annual salary</td>
+						                </tr>
+						            </tbody>
+						        </table>
+						    </div>
+					    
+							<h4>Download pdf here</h4>
+							<a href="/images/pdf/retirement-investment-goal-tracker.pdf"><img src="/images/about/pdf.webp" width="200px"></a>
+									  		
+													
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	
+	<!--<section>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -123,12 +401,10 @@
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<h4>Download pdf here</h4>
-							
-							
 							<a href="/images/pdf/retirement-planning-calculator.pdf"><img src="/images/about/pdf.webp" width="200px"></a>
 						</div>
 					</div>
 				</div>
 			</section>
-	
+-->	
 	

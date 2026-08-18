@@ -999,7 +999,7 @@ public class HomeController {
 			// request.setAttribute("list", list);
 
 			request.setAttribute("page", "tax-planning-services");
-			request.setAttribute("jsp", "../common/tax-planning-services.jsp");
+			request.setAttribute("jsp", "../common/tax-planning-sebi.jsp");
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		}

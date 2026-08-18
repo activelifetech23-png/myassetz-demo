@@ -110,29 +110,25 @@
 					<!--<li><a href="/figure-out-your-finances">Figure Out Your Finances</a></li>-->
 			  	</ul>	
 			  	</li>
-			<!--	<li><a href="#">Services</a>
+				<li><a href="#">Services</a>
                 <ul class="dropdown mt-10">
-                    <li><a href="/figure-out-your-finances">Figure out your finances</a></li>
-					<li><a href="/needs-wants-desires">Needs wants and desires</a></li>
-					<li><a href="/Save-for-a-rainy-day">Save your money for a rainy day's (emergency fund)</a></li>
-					<li><a href="/small-savings-add-up-to-big-money-over-time">Small savings add up to a large money over time</a></li>
-					<li><a href="/inflation-the-general-increase-in-prices">Inflation - the general rise in prices</a></li>
-					<li><a href="/avoid-borrowing">Avoid borrowing</a></li>
+                    <li><a href="/financial-service">Financial planning</a></li>
+					<li><a href="/risk-management-through-insurance">Risk management</a></li>
+					<li><a href="/investment-strategy-based-on-your-risk-profile-and-asset-allocation">Investment strategy</a></li>
+					<li><a href="/multiple-future-goals-planning">Multiple Goals planning</a></li>
+					<li><a href="/retirement-planning">Retirement planning</a></li>
+					<li><a href="/tax-planning">Tax planning</a></li>
                   
                  	
-                 	<li><a href="/sif">Pay off your high interest loans including credit cards</a></li>
+                 	<li><a href="/net-worth">	Your Networth</a></li>
                  	
-                 	<li><a href="/thumb-rules-for-understanding-power-of-compounding">Thumb rules for understanding the power of compounding</a></li>
-                 	<li><a href="/understand-what-is-risk">Know what is risk</a></li>
+                 	<li><a href="/know-your-liabilities">Know your liabilities</a></li>
+                 	<li><a href="/portfolio-performance-tracker">Your current portfolio performance</a></li>
                  	
-                 	<li><a href="/gauge-your-risk-tolerance">Gauge your risk profile</a></li>
-					<li><a href="/define-and-set-your-goals-to-meet-future-goals">Set goals for your future needs</a></li>
-					<li><a href="learn-about-your-investment-avenues-options">Learn about your investment options</a></li>
-					<li><a href="/diversify-your-investments">Diversify your investments</a></li>
-                 	
-                  	<li><a href="/plan-early-for-your-retirement">Plan early for retirement</a></li> 
+                 	<li><a href="/budgeting-and-cash-flow">Budgeting tool</a></li>
+					 
                 </ul>
-              </li>-->
+              </li>
 				<!-- <li><a href="/mutual-fund">Mutual Fund</a></li> -->
          	  <li><a href="#">Products</a>
                 <ul class="dropdown mt-10">

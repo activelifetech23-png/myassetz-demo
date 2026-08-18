@@ -4,6 +4,39 @@
 
 
 <style>
+	
+	.nav-tabs > li.active a {
+	    color: #fff;
+	    background-color: #F9A003;
+	    border-color: #F9A003;
+	    padding: 10px 60px;
+	    border-radius: 10px;
+	    font-size: 18px;
+	}
+	.nav-tabs > li a {
+	    color: #ccccc;
+	    background-color:#fff;
+	    border-color: #cccccc;
+	    padding: 10px 60px;
+	    border-radius: 10px;
+	    font-size: 18px;
+	}
+	.nav-tabs > li.active a, .nav-tabs > li.active a:hover, .nav-tabs > li.active a:focus {
+	    color: #fff;
+	    background-color: #F9A003;
+	}
+	
+	.nav-tabs > li.active a, .nav-tabs > li.active a:hover{
+		background-color: #F9A003;
+		color:#fff;
+		
+	}
+	
+	.nav-tabs > li > a:hover, .nav-tabs > li > a:focus{
+		color:#fff !important;
+		background-color: #F9A003 !important;
+	}
+
 
 .breadcrumb li a {
     color: #fff;
@@ -92,25 +125,81 @@
       </div>
     </section>
 	
+	
 	<section>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
-					<p>Financial planning is a comprehensive strategy to manage your money, achieve personal goals and financial freedom thus securing your future. It translates your life aspirations into actionable financial milestones. </p>
-										<h4 >Key Components</h4>
+					<div class="row">
+						<div class="col-md-12">
+
+					  		<ul class="nav nav-tabs  ">
+								<li class="active pb-20 capital">
+					    			<a href="#1" data-toggle="tab">Financial health check</a>
+								</li>
+							     <li class="pb-20" style="margin-left:15px;">
+									<a href="#2 " data-toggle="tab">Budgeting and cashflow</a>
+								</li>
+								
+							</ul>
+							<div class="tab-content ">
+					  			<div class="tab-pane active" id="1">
+									<p>Financial planning is a comprehensive strategy to manage your money, achieve personal goals and financial freedom thus securing your future. It translates your life aspirations into actionable financial milestones. </p>
+									<h4 >Key Components</h4>
+									<ul>
+										<li><b> Budgeting and cash flow </b>: Tracking your income and monthly expenses.</li>
+										<li><b> Risk management </b>: Protecting life, health and assets with appropriate insurance policies.</li>
+										<li><b> Setting financial goals for various future needs </b>: Needs like higher education, marriage, emergencies, travel and others</li>
+										<li><b> Retirement planning </b>: Saving and investing to build a lifelong nest egg.</li>
+										<li><b> Investment strategy </b>: Growing wealth based on your risk tolerance.</li>
+										<li><b> Tax optimization </b>: Minimizing liabilities through legal tax strategies.</li>
+										<li><b> Estate planning </b>: Organizing asset distribution for your heirs. </li>
+									</ul>
+									</div>
+								
+								<div class="tab-pane" id="2">
+									<h4 class="pt-20">Budgeting and cash flow</h4>
+										<p>A budget is a financial plan that tracks your income and expenses over a specific period. It helps you manage your money, avoid debt, and save for future goals.  </p>
+										
+									<h4 class="pt-20">Core Components</h4>
 										<ul>
-											<li><b> Budgeting and cash flow </b>: Tracking your income and monthly expenses.</li>
-											<li><b> Risk management </b>: Protecting life, health and assets with appropriate insurance policies.</li>
-											<li><b> Setting financial goals for various future needs </b>: Needs like higher education, marriage, emergencies, travel and others</li>
-											<li><b> Retirement planning </b>: Saving and investing to build a lifelong nest egg.</li>
-											<li><b> Investment strategy </b>: Growing wealth based on your risk tolerance.</li>
-											<li><b> Tax optimization </b>: Minimizing liabilities through legal tax strategies.</li>
-											<li><b> Estate planning </b>: Organizing asset distribution for your heirs. </li>
-										</ul>
+										<li><b> Income </b>: Total money you earn or receive.</li>
+										<li><b> Fixed Expenses </b>: Regular costs that rarely change (e.g., rent).</li>
+										<li><b> Variable Expenses </b>: Daily spending that fluctuates (e.g., groceries).</li>
+										<li><b> Savings </b>: Money set aside for future needs. </li>
+										
+									</ul>
+									<h4 class="pt-20">Main Purposes</h4>
+										<ul>
+										<li><b> Control Spending </b>: Prevents overspending on unnecessary items.</li>
+										<li><b> Track Progress </b>: Shows exactly where your money goes.</li>
+										<li><b> Reach Goals </b>: Helps you fund vacations, emergencies, or retirement. </li>
+										<li><b> Reduce Stress </b>: Provides financial security and peace of mind. </li>
+										
+										
+									</ul>
+									<h4 class="pt-20">Popular Budgeting Methods</h4>
+									<ul>
+										<li><b> 50/25/25 Rule </b>: 50% needs, 25% wants, 25% savings.</li>
+										<li><b> Zero-Based Budgeting </b>: Every single rupee is assigned a specific purpose.</li>
+										<li><b> Envelope System </b>: Cash is divided into labelled envelopes for categories.  </li>
+										
+										
+										
+									</ul>			
+
+									 
+									
+								</div>
+								
+								</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</section>
+	
 	
 	<!--<section>
 				<div class="container pt-0">

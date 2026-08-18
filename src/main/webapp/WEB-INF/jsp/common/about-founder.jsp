@@ -87,10 +87,10 @@
 <section >
 		<div class="container">
 			<div class="row align-items-center justify-content-center">
-				<div class="col-md-6">
-					<img src="/images/about/avthor.avif" class="img-fluid"> 
+				<div class="col-md-6 text-center">
+					<img src="/images/about/shankar.png" class="img-fluid" width="400px"> 
 				</div>
-				<div class="col-md-5">
+				<div class="col-md-6">
 					<h2 class="">Our Esteemed Founder</h2>
 					
 					<p class="text-justify mt-20"><b><sapn style="color:#27A840;"> Sankar is a CFP - a Certified Financial Planner </sapn></b> - from Financial Planning Standard Boards of USA and is in practice for the last several years. Subsequently acquired CFA qualification as well to expand the knowledge base on various investment product valuations and he brings in his ability to evaluate various asset classes to the table. </p>

@@ -745,7 +745,7 @@ border-color:#27A840 !important;
 	    padding: 22px 20px 18px;
 	    text-align: center;
 	    border-radius: 7px;
-	    border: 1px solid #f1f1f1;
+	   /* border: 1px solid #f1f1f1;*/
 	    transition: all .3s ease;
 	}
 
@@ -2868,7 +2868,7 @@ $(document).ready(function(){
     <div class="container ">
 
         <div class="financial-topic-heading text-center">
-            <span>FINANCIAL KNOWLEDGE FOR A BETTER FUTURE</span>
+            <span>Financial Knowledge For a Better Future</span>
             <h2>Our Services</h2>
             <p>Learn. Plan. Invest. Grow.</p>
         </div>
@@ -2886,10 +2886,10 @@ $(document).ready(function(){
                     <h4>Financial planning</h4>
 
                     <p>
-                        Financial planning is a comprehensive strategy to manage your money, achieve personal goals and financial freedom...
+                        Financial planning is a comprehensive strategy to manage your money, achieve personal goals and...
                     </p>
 
-                    <a href="#">Explore Now <span>&rarr;</span></a>
+                    <a href="/financial-service">Explore Now <span>&rarr;</span></a>
 
                 </div>
             </div>
@@ -2903,13 +2903,13 @@ $(document).ready(function(){
                         <span class="glyphicon glyphicon-check"></span>
                     </div>
 
-                    <h4>Budgeting and cash flow</h4>
+                    <h4>Risk management</h4>
 
                     <p>
-                        A budget is a financial plan that tracks your income and expenses over a specific period. It helps you manage your money...
+                       Insurance provides you financial support if something unexpected happens to you and your family - such as an...
                     </p>
 
-                    <a href="#">Explore Now <span>&rarr;</span></a>
+                    <a href="/risk-management-through-insurance">Explore Now <span>&rarr;</span></a>
 
                 </div>
             </div>
@@ -2923,13 +2923,13 @@ $(document).ready(function(){
                         <span class="glyphicon glyphicon-piggy-bank"></span>
                     </div>
 
-                    <h4>Risk management through insurance</h4>
+                    <h4>Investment strategy</h4>
 
                     <p>
-                        Insurance provides you financial support if something unexpected happens to you and your family - such as an accident, medical...
+                        Your risk profile dictates how your portfolio behaves during market swings. It consists of three distinct,...
                     </p>
 
-                    <a href="#">Explore Now <span>&rarr;</span></a>
+                    <a href="/investment-strategy-based-on-your-risk-profile-and-asset-allocation">Explore Now <span>&rarr;</span></a>
 
                 </div>
             </div>
@@ -2943,13 +2943,13 @@ $(document).ready(function(){
                         <span class="glyphicon glyphicon-screenshot"></span>
                     </div>
 
-                    <h4>Setting Financial Goals</h4>
+                    <h4>Multiple goals planning</h4>
 
                     <p>
-                        A good financial goal should be SMART i.e. Specific, Measurable, Achievable, Realistic and Time bound...
+                        Financial goals are targets to achieve specific financial objectives within a specified timeframe. By...
                     </p>
 
-                    <a href="#">Explore Now <span>&rarr;</span></a>
+                    <a href="/multiple-future-goals-planning">Explore Now <span>&rarr;</span></a>
 
                 </div>
             </div>
@@ -2963,13 +2963,13 @@ $(document).ready(function(){
                         <span class="glyphicon glyphicon-road"></span>
                     </div>
 
-                    <h4>Multiple future goals planning</h4>
+                    <h4>Retirement planning</h4>
 
                     <p>
-                        Financial goals are targets to achieve specific financial objectives within a specified timeframe. By establishing...
+                        You should have a retirement plan in advance, so that when you retire from work, you continue to maintain...
                     </p>
 
-                    <a href="#">Explore Now <span>&rarr;</span></a>
+                    <a href="/retirement-planning">Explore Now <span>&rarr;</span></a>
 
                 </div>
             </div>
@@ -2983,28 +2983,108 @@ $(document).ready(function(){
                         <span class="glyphicon glyphicon-stats"></span>
                     </div>
 
-                    <h4>Retirement planning</h4>
+                    <h4>Tax planning</h4>
 
                     <p>
-                        You should have a retirement plan in advance, so that when you retire from work, you continue to maintain the...
+                        check the 	Tax Calculator: Old Regime vs New Regime 
                     </p>
 
-                    <a href="#">Explore Now <span>&rarr;</span></a>
+                    <a href="/tax-planning">Explore Now <span>&rarr;</span></a>
 
                 </div>
             </div>
 
         </div>
+			<div class="row">
+				
+			
+		<!-- Card 1 -->
+		           <div class="col-sm-4">
+		               <div class="financial-topic-card topic-blue">
+
+		                   <div class="topic-icon">
+		                       <span class="glyphicon glyphicon-list-alt"></span>
+		                   </div>
+
+		                   <h4>Your Networth</h4>
+
+		                   <p>
+		                       Net worth is the total value of everything you own minus everything you owe. It provides a snapshot of your...
+		                   </p>
+
+		                   <a href="/net-worth">Explore Now <span>&rarr;</span></a>
+
+		               </div>
+		           </div>
 
 
-        <!-- View All Topics Button -->
-       <!-- <div class="text-center view-all-topic-wrap">
-            <button type="button"
-                    class="btn view-all-topic-btn"
-                    id="viewAllTopics">
-                View All Topics <span>&rarr;</span>
-            </button>
-        </div>-->
+		           <!-- Card 2 -->
+		           <div class="col-sm-4">
+		               <div class="financial-topic-card topic-green">
+
+		                   <div class="topic-icon">
+		                       <span class="glyphicon glyphicon-check"></span>
+		                   </div>
+
+		                   <h4>Know your liabilities</h4>
+
+		                   <p>
+		                       The phrase "know your liabilities" is a fundamental rule in business, law, and personal finance. It ...
+		                   </p>
+
+		                   <a href="/know-your-liabilities">Explore Now <span>&rarr;</span></a>
+
+		               </div>
+		           </div>
+
+
+		           <!-- Card 3 -->
+		           <div class="col-sm-4">
+		               <div class="financial-topic-card topic-orange">
+
+		                   <div class="topic-icon">
+		                       <span class="glyphicon glyphicon-piggy-bank"></span>
+		                   </div>
+
+		                   <h4>Your current portfolio performance</h4>
+
+		                   <p>
+		                       A portfolio performance tracker is a digital tool that helps monitor your...
+		                   </p>
+
+		                   <a href="/portfolio-performance-tracker">Explore Now <span>&rarr;</span></a>
+
+		               </div>
+		           </div>
+				   </div>
+				   <div class="row">
+					<div class="col-sm-4">
+		                   <div class="financial-topic-card topic-purple">
+
+		                       <div class="topic-icon">
+		                           <span class="glyphicon glyphicon-screenshot"></span>
+		                       </div>
+
+		                       <h4>Budgeting tool</h4>
+
+		                       <p>
+		                          A budget is a financial plan that tracks your income and expenses over a specific period. It helps you manage your money,...
+		                       </p>
+
+		                       <a href="/budgeting-and-cash-flow">Explore Now <span>&rarr;</span></a>
+
+		                   </div>
+		               </div>
+
+
+		             
+
+		               
+		               
+		           </div>
+					
+				   </div>
+				   
 
     </div>
 </section>
