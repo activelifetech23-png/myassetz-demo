@@ -162,7 +162,7 @@
 													<li><b> Health Insurance </b>: helps you to cover the medical and hospitalisation cost due to illness or accident. </li>
 													<li><b> General Insurance </b>: pertains to car insurance, travel insurance, retirement insurance, property insurance etc. </li>
 												</ul>
-												<p class="tex-center pt-20"><img class="img-fluid" src="/images/about/finane-two.png"></p>
+												<p class="tex-center pt-20"><img class="img-fluid" src="/images/about/typesinsurance.png"></p>
 												
 												<p>Assess your needs before you buy insurance. The type of insurance you need will depend on what you intend to protect in case something untoward happens to you - such as your life, family, house, movable/immovable assets etc. To buy insurance, you will be required to pay premium, which could be monthly, quarterly or yearly. Premium can also be one-time payment in case of certain type of insurance such as Travel insurance. These payments need to be part of our budgeting exercise.</p>
 							 
@@ -234,8 +234,9 @@
 		<div class="container pt-0">
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<h4>Download pdf here</h4>
-					<a href="/images/pdf/insurance-need-calculator.pdf"><img src="/images/about/pdf.webp" width="200px"></a>
+					<h4>Download Xl here</h4>
+					<a href="/xl-folder/My-Assetz-Life-Insurance-Calculator.xlsx"><img src="/xl-folder/xl.webp" width="150px"></a>
+					
 				</div>
 			</div>
 		</div>

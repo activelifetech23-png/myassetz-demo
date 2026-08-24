@@ -154,8 +154,9 @@
 							<h4 class="mt-20">Multiple future goals planning </h4>
 									<p>Financial goals are targets to achieve specific financial objectives within a specified timeframe. By establishing clear financial goals, one can take control of finances and work towards securing financial future.</p>
 									<img class="img-fluid" src="/images/about/financial-future.png"> <br>
-									<h5>Dowload Form</h5>
-									<a href="/images/pdf/multiple-goals-planning-calculator.pdf"><img src="/images/about/pdf.webp" width="200px"></a>													
+									<h5 class="pt-10">Dowload Xl here</h5>
+									<!--<a href="/images/pdf/multiple-goals-planning-calculator.pdf"><img src="/images/about/pdf.webp" width="200px"></a>-->	
+									<a href="/xl-folder/Other_Goals_Calculator.xlsx"><img src="/xl-folder/xl.webp" width="150px"></a>												
 							</div>
 												
 			  			<div class="tab-pane" id="2">
@@ -296,10 +297,11 @@
 							        <li><strong>Action step:</strong> Sell the overperforming asset and buy the underperforming one.</li>
 							        <li><strong>Benefit:</strong> Forces you to buy low and sell high automatically.</li>
 							    </ul>
-								<h4>Download pdf here</h4>
+								<h4 class="pt-20">Download xl here</h4>
 																		
 																		
-								<a href="/images/pdf/goal-planning-variable-asset-allocation.pdf"><img src="/images/about/pdf.webp" width="200px"></a>
+								
+								<a href="/xl-folder/Financial_Goal_Planner.xlsx"><img src="/xl-folder/xl.webp" width="150px"></a>
 							
 						</div>
 						
@@ -310,9 +312,10 @@
 						        calculates exactly how much you need to save today to achieve a specific
 						        financial goal in the future.
 						    </p>                      
-							<h4>Download pdf here</h4>
+							<h4 class="pt-10">Download Xl here</h4>
+							<a href="/xl-folder/Liabilities_Summary.xlsx"><img src="/xl-folder/xl.webp" width="150px"></a>
 																	
-							<a href="/images/pdf/liabilities-tracker.pdf"><img src="/images/about/pdf.webp" width="200px"></a>
+							
 						</div>
 					</div>
 				</div>

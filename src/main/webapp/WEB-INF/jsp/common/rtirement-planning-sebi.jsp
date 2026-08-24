@@ -129,8 +129,29 @@
 	
 	<!-- Section: service-->
 	   <section class="pt-50 pb-50">
-		<div class="container p-30">
+		<div class="container ">
 			<div class="row">
+							<div class="col-lg-12">
+								
+											<img class="img-fluid" src="/images/about/financial-retirement.png">
+											<p>You should have a retirement plan in advance, so that when you retire from work, you continue to maintain the same life-style without worrying about expenses and inflation. A retirement plan helps you to pursue your post-retirement dreams and to secure your future.</p>
+											<h4 class="mt-20">Some tips for Your Retirement Planning:</h4>
+											<ul>
+												<li>Saving early for retirement gives money more time to grow and compound. This ensures availability of a large lump sum on your retirement.</li>
+												<li>Make sure you save enough to cover unplanned expenses and emergencies. Ensure that you have adequate insurance policies to cover unforeseen events and medical emergencies to secure your family and loved ones.</li>
+											</ul>										
+											<img class="img-fluid" src="/images/about/financial-bird.png">
+											
+											<ul>
+															<li>It is desirable to diversify your investments across different asset class so that if one asset class does not perform, you can get returns from other asset class. Put it simply, don't keep all your eggs in one basket.</li>
+															<li>Choose your plan keeping in mind your retirement goals and lifestyle.
+															You may contact a regulated financial advisor to guide you through the retirement planning process who will help you find the best retirement plans for you.</li>
+														</ul>
+											
+
+							</div>
+						</div>
+			<div class="row pt-30">
 	        	<div class="col-md-12">
 	        
 	          		<ul class="nav nav-tabs  ">
@@ -152,45 +173,50 @@
 					</ul>
 					<div class="tab-content ">
 			  			<div class="tab-pane active" id="1">
-							<img class="img-fluid" src="/images/about/financial-retirement.png">
-							<p>You should have a retirement plan in advance, so that when you retire from work, you continue to maintain the same life-style without worrying about expenses and inflation. A retirement plan helps you to pursue your post-retirement dreams and to secure your future.</p>
-							<h4 class="mt-20">Some tips for Your Retirement Planning:</h4>
+							
+							<h4>Build Your Financial Future Independently</h4>
+							<p>Being unmarried can be an ideal stage to establish strong financial habits and work towards your personal goals. *Financial planning for unmarried individuals* focuses on managing income, building savings and preparing for important future milestones.</p>
+							<h4 class="mt-20">Key Areas of Financial Planning</h4>
 							<ul>
-								<li>Saving early for retirement gives money more time to grow and compound. This ensures availability of a large lump sum on your retirement.</li>
-								<li>Make sure you save enough to cover unplanned expenses and emergencies. Ensure that you have adequate insurance policies to cover unforeseen events and medical emergencies to secure your family and loved ones.</li>
+								<li>Emergency fund planning</li>
+								<li>Investment and savings planning</li>
+								<li>Home and property planning</li>
+								<li>Career and income growth goals</li>
+								<li>Insurance and financial protection</li>
+								<li>Retirement planning</li>
+								<li>Tax and long-term financial planning</li>
+								<li>Planning for future marriage or family responsibilities</li>
 							</ul>										
-							<img class="img-fluid" src="/images/about/financial-bird.png">
-
-							<ul>
-											<li>It is desirable to diversify your investments across different asset class so that if one asset class does not perform, you can get returns from other asset class. Put it simply, don't keep all your eggs in one basket.</li>
-											<li>Choose your plan keeping in mind your retirement goals and lifestyle.
-											You may contact a regulated financial advisor to guide you through the retirement planning process who will help you find the best retirement plans for you.</li>
-										</ul>
-
-										<h4>Download pdf here</h4>
-										<a href="/images/pdf/retirement-planning-calculator.pdf"><img src="/images/about/pdf.webp" width="200px"></a>			  
+							<h4>Start Planning Early</h4>
+							<p>With fewer financial responsibilities, you may have greater flexibility to focus on long-term goals. Starting early can provide more time to build savings and investments according to your financial goals, time horizon and risk profile.</p>
+							<p>Plan Your Financial Future</p>	
+							<p>Understand your goals, organise your finances and take informed steps towards building a financially prepared future.</p>
+						
+							
+										  
 									  
 						</div>
 						
 						<div class="tab-pane" id="2">
-							<img class="img-fluid" src="/images/about/financial-retirement.png">
-														<p>You should have a retirement plan in advance, so that when you retire from work, you continue to maintain the same life-style without worrying about expenses and inflation. A retirement plan helps you to pursue your post-retirement dreams and to secure your future.</p>
-														<h4 class="mt-20">Some tips for Your Retirement Planning:</h4>
+							<h4>Plan Together. Build Your Future Together.</h4>
+														<p>Marriage brings shared financial responsibilities, new priorities and long-term goals. *Financial planning for married couples* helps organise household finances and create a structured approach towards achieving individual and family goals.</p>
+														<h4 class="mt-20">Key Areas of Financial Planning</h4>
 														<ul>
-															<li>Saving early for retirement gives money more time to grow and compound. This ensures availability of a large lump sum on your retirement.</li>
-															<li>Make sure you save enough to cover unplanned expenses and emergencies. Ensure that you have adequate insurance policies to cover unforeseen events and medical emergencies to secure your family and loved ones.</li>
+															<li>Joint financial goal planning</li>
+															<li>Household budget and cash-flow management</li>
+															<li>Emergency fund planning</li>
+															<li>Home purchase planning</li>
+															<li>Child education planning</li>
+															<li>Insurance and financial protection</li>
+															<li>Investment and wealth planning</li>
+															<li>Retirement planning</li>
+															<li>Tax and estate-related considerations</li>
 														</ul>										
-														<img class="img-fluid" src="/images/about/financial-bird.png">
-
-														<ul>
-																		<li>It is desirable to diversify your investments across different asset class so that if one asset class does not perform, you can get returns from other asset class. Put it simply, don't keep all your eggs in one basket.</li>
-																		<li>Choose your plan keeping in mind your retirement goals and lifestyle.
-																		You may contact a regulated financial advisor to guide you through the retirement planning process who will help you find the best retirement plans for you.</li>
-																	</ul>
-
-																	<h4>Download pdf here</h4>
-																	<a href="/images/pdf/retirement-planning-calculator.pdf"><img src="/images/about/pdf.webp" width="200px"></a>			  
-							
+							<h4>Plan for Every Stage of Family Life</h4>									  
+							<p>As your family and financial responsibilities evolve, your financial plan may need to be reviewed periodically. A structured approach can help you assess your goals, savings, investments, protection needs and future financial requirements.</p>
+							<h4>Build Your Family's Financial Future</h4>
+							 <p>Understand your shared financial goals and explore an investment approach based on your objectives, time horizon and risk profile.</p>
+							 <p>Start Your Family Financial Plan</p>
 							 
 							
 						</div>
@@ -316,9 +342,10 @@
 								        </li>
 								    </ol>
 
-									<h4>Download pdf here</h4>
+									<h4>Download Xl here</h4>
 															
-								<a href="/images/pdf/cost-of-delay-calculator.pdf"><img src="/images/about/pdf.webp" width="200px"></a>
+								
+								<a href="/xl-folder/Cost_of_Delay_Calculator.xlsx"><img src="/xl-folder/xl.webp" width="150px"></a>
 						</div>
 						<div class="tab-pane " id="4">
 							<p>To track and hit your retirement goals effectively, you should use a mix of specialized digital goal trackers, benchmark milestones based on your salary, and a structured math framework to ensure your savings outpace inflation.</p>
@@ -357,11 +384,66 @@
 						        </table>
 						    </div>
 					    
-							<h4>Download pdf here</h4>
-							<a href="/images/pdf/retirement-investment-goal-tracker.pdf"><img src="/images/about/pdf.webp" width="200px"></a>
-									  		
+							<h4 class="pt-10">Download Xl here</h4>
+							<!--<a href="/downloadxl/Retirement_planning.xlsx"><img src="/downloadxl/xl.webp" width="200px"></a>-->
+							<a href="/xl-folder/My_Assetz_Retirement_Goal_Planner.xlsx"><img src="/xl-folder/xl.webp" width="150px"></a>		  		
 													
 							
+						</div>
+						<div class="tab-pane " id="5">
+							<h3>Retirement Planning for Seniors</h3>
+							<h4>Plan Your Retirement. Protect Your Independence.</h4>
+							<p>Retirement is a new phase of life where financial stability, regular income, healthcare and unexpected expenses become important. A well-planned retirement strategy can help you manage your savings and investments while preparing for your future financial needs.</p>
+							<p>The focus should be on *financial stability, appropriate risk management and long-term sustainability*, rather than simply seeking higher returns.</p>
+							<h4>Financial Planning for Your Retirement Years</h4>
+							<p>Your financial priorities can change during retirement. Planning should consider:</p>
+							<ul>
+								<li>Regular retirement income
+									
+								</li>
+								<li>Essential household expenses</li>
+								<li>Healthcare and emergency needs</li>
+								<li>Inflation and rising living costs</li>
+								<li>Existing savings and investments</li>
+								<li>Insurance and financial protection</li>
+								<li>Tax considerations</li>
+								<li>Nomination and succession planning</li>
+							</ul>
+							<p>Regular reviews can help ensure your financial arrangements continue to match your changing needs.</p>
+							<h4>Key Areas of Retirement Planning</h4>
+							<p><b>1. Regular Income Planning</b></p>
+							<p>Assess your pension, investments and other income sources to determine whether they can support your regular expenses throughout retirement.</p>
+							<p><b>2. Emergency Fund</b></p>
+							<p>Maintain an appropriate reserve for unexpected medical, household and other financial requirements.</p>
+							<p><b>3. Healthcare Planning</b></p>
+							<p>Review your health insurance and keep a provision for medical expenses that may not be covered.</p>
+							<p><b>4. Inflation Planning</b></p>
+							<p>Consider the impact of rising costs on your future purchasing power and retirement income requirements.</p>
+							<p><b>5. Risk Management</b></p>
+							<p>Investment decisions should consider your financial goals, risk tolerance, investment horizon and liquidity requirements.</p>
+							<p><b>6. Asset Allocation</b></p>
+							<p>Diversifying investments across suitable asset classes can help manage risk while aligning investments with your objectives.</p>
+							<p><b>7. Withdrawal Planning</b></p>
+							<p>Plan withdrawals carefully to meet your income needs while considering the sustainability of your retirement corpus.</p>
+							<p><b>8. Nomination & Succession</b></p>
+							<p>Keep nominations and important financial records updated. Consider appropriate legal guidance for succession and estate planning.</p>
+							<p><b>9. Tax Planning</b></p>
+							<p>Understand the applicable tax treatment of your income and investments and seek professional tax guidance where required.</p>
+							<h4>Common Retirement Mistakes to Avoid</h4>
+							<ul>
+								<li>Depending on a single source of income</li>
+								<li>Taking unnecessary investment risk</li>
+								<li>Ignoring inflation</li>
+								<li>Making unplanned withdrawals</li>
+								<li>Keeping financial records outdated</li>
+								<li>Selecting investments based only on past performance</li>
+							</ul>
+							<h4>Review Your Retirement Plan</h4>
+							<p><b>Periodically review your:</b></p>
+							<p>Income . Expenses . Healthcare . Investments . Insurance . Nominations . Financial Goals</p>
+							<p>Your retirement plan should evolve as your financial circumstances and priorities change.</p>
+							<h4>Important Investor Information</h4>
+							<p>This content is for *general investor education and awareness purposes only* and should not be considered personalised investment, tax or legal advice.</p>
 						</div>
 					</div>
 				</div>

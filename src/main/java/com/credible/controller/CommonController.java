@@ -521,6 +521,7 @@ public class CommonController {
 		return "layout/layout";
 	}
 	
+
 	
 	@RequestMapping("/financial-service")
 	public String financial_service(HttpServletRequest request, HttpServletResponse response) 
@@ -622,7 +623,7 @@ public class CommonController {
 		return "layout/layout";
 	}
 	
-	@RequestMapping("/services/national-pension-scheme")
+	@RequestMapping("/national-pension-scheme")
 	public String national_pension_scheme(HttpServletRequest request, HttpServletResponse response) 
 	{
 		request.setAttribute("page", "national-pension-scheme");

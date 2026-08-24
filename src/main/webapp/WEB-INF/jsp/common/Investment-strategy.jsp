@@ -211,7 +211,7 @@
 						</div>
 						
 						<div class="tab-pane" id="2">
-							<h4 class="pt-20">3.Review Standard Asset Allocation Frameworks</h4>
+							<h4 class="pt-20">1.Review Standard Asset Allocation Frameworks</h4>
 															<p>Asset allocation distributes your capital across non-correlated asset classes to optimize risk-adjusted returns. Below is a standard baseline table mapping risk profiles to target models: </p>
 															
 															    <div class="table-responsive">
@@ -275,7 +275,7 @@
 															            </tbody>
 															        </table>
 															    </div>
-															<h4 class="pt-20">4. Execute Your Strategy in 4 Steps</h4>
+															<h4 class="pt-20">2. Execute Your Strategy in 4 Steps</h4>
 															<p>To turn your risk profile into a live portfolio, execute this mechanical sequence:</p>
 															<p>1.	<b>Calculate Time Horizon</b>: Map out exactly when you need the cash.</p>
 															<p>2.	<b> Select Index Funds </b>: Choose low-cost, broad-market index exchange-traded funds (ETFs).</p>

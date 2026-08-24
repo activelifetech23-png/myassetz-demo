@@ -115,9 +115,10 @@
 				<div class="container pt-0">
 					<div class="row">
 						<div class="col-md-12 text-center">
-							<h4>Download pdf here</h4>
+							<h4>Download Xl here</h4>
 							
-							<a href="/images/pdf/liabilities-tracker.pdf"><img src="/images/about/pdf.webp" width="200px"></a>
+							<!--<a href="/images/pdf/liabilities-tracker.pdf"><img src="/images/about/pdf.webp" width="200px"></a>-->
+							<a href="/xl-folder/Liabilities_Summary.xlsx"><img src="/xl-folder/xl.webp" width="150px"></a>
 						</div>
 					</div>
 				</div>

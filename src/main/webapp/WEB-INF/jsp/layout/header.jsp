@@ -99,7 +99,7 @@
         <div class="container">
           <nav id="menuzord-right" class="menuzord blue bg-white pl-15 pr-15 ">
             <a class="menuzord-brand text-center flip mb-15" href="/"><img src="/images/logo/logo.jpeg" alt="">
-            <figcaption class="text-center figcaption" style="font-size: 10px;">AMFI Registered Mutual Fund Distributor</figcaption></a>
+            <figcaption class="text-center figcaption" style="font-size: 10px;">Certified Financial Planner</figcaption></a>
 			 <ul class="menuzord-menu mt-10">
               <li><a href="/">Home</a></li>
 			  <!--<li><a href="/aboutus">About Us</a></li>-->
@@ -138,7 +138,7 @@
 					<li><a href="/bonds-and-ncd">Bonds</a></li>
 					<li><a href="/aif">AIF</a></li>
 					<li><a href="/unlisted-shares">Unlisted shares</a></li>
-                  
+					<li><a href="/national-pension-scheme">National Pension Scheme</a></li>
                  	
                  	<!--<li><a href="/sif">Specialized Investment Fund (SIF)</a></li>-->
                  	
@@ -171,10 +171,11 @@
                <ul class="dropdown mt-10">
    		  		
    				<li><a href="https://investor.sebi.gov.in/financial_health_check.html">Financial health check link</a></li>
+				<li><a href="/budgeting-and-cash-flow">Budgeting and cash flow</a></li>
    		  	</ul>	
    		  	</li>
-              <li class="active pull-right pl-lg-5"><a href="#"  class="font-14 line-height-2"><i class="fa fa-user-o mr-5 font-14"></i> Login</a></li>
-              <li class="active pull-right pl-lg-5"><a href="#"  class="font-14 line-height-2"><i class="fa fa-user-o mr-5 font-14"></i> Sign Up</a></li>
+              <li class="active pull-right pl-lg-5"><a href="https://www.assetplus.in/#!/login"  class="font-14 line-height-2"><i class="fa fa-user-o mr-5 font-14"></i> Login</a></li>
+              <li class="active pull-right pl-lg-5"><a href="https://www.assetplus.in/#!/signup"  class="font-14 line-height-2"><i class="fa fa-user-o mr-5 font-14"></i> Sign Up</a></li>
                
             </ul>
           </nav>
