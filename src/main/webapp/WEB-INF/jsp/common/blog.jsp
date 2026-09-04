@@ -87,12 +87,23 @@
    	<section>
 		<div class="container">
 			<div class="row" id="blogcard">
+				<div class="col-md-4">
+											<a href="/unlisted-equity">
+						                  	<div class="card">
+												<div class="card-body">
+													<img class="img-fluid mb-30" src="/images/about/Stock-Market-Today-News.avif">
+													<h5 class="mb-20">Unlisted Equity Investment Sample Allocation...</h5>
+												</div>
+												
+											</div>
+											</a>
+						            </div>
 							   <div class="col-md-4">
 								<a href="/blog-details/How-to-Build-a-1-Crore-Portfolio-from-Zero">
 			                  	<div class="card">
 									<div class="card-body">
 										<img class="img-fluid mb-20" src="/images/blog/amount.png">
-										<h5>How to Build a 1 Crore Portfolio from Zero ...</h5>
+										<h5 >How to Build a 1 Crore Portfolio from Zero ...</h5>
 									</div>
 									
 								</div>
@@ -109,24 +120,22 @@
 							</div>
 							</a>
 			        	</div>
-						<div class="col-md-4">
-							<a href="/blog-details/SIP-vs-Lumpsum-Which-Investment-Strategy-Is-Right-for-You">
-			              	<div class="card">
-								<div class="card-body">
-									<img class="img-fluid mb-20" src="/images/blog/large-cap.png">
-									<h5>SIP vs Lumpsum : Which Investment Strategy Is Right...</h5>
-								</div>
-								
-							</div>
-							</a>
-			        	</div>
+						
 			            
 			          </div>
 			
 					  <div class="row pt-30" id="blogcard">
-						<div class="col-md-2">
-											  			              	
-						</div>
+						<div class="col-md-4">
+													<a href="/blog-details/SIP-vs-Lumpsum-Which-Investment-Strategy-Is-Right-for-You">
+									              	<div class="card">
+														<div class="card-body">
+															<img class="img-fluid mb-20" src="/images/blog/large-cap.png">
+															<h5>SIP vs Lumpsum : Which Investment Strategy Is Right...</h5>
+														</div>
+														
+													</div>
+													</a>
+									        	</div>
 			  							   <div class="col-md-4">
 											<a href="/blog-details/Planting-Dreams-Early">
 			  			                  	<div class="card">
@@ -149,9 +158,7 @@
 					  							</div>
 												</a>
 					  			        	</div>
-					  						<div class="col-md-2">
-					  			              	
-					  			        	</div>
+					  						
 					  			            
 					  			          </div>
 					  				  

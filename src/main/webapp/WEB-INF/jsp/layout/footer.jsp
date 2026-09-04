@@ -160,7 +160,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
                         </li><br>
                         <li class="m-0 pl-10 pr-10"> 
 							<i class="fa fa-envelope-o text-theme-colored1 mr-5"></i> 
-							<a href="mailto:sankarfunds@gmail.com" class="text-dark">sankarfunds@gmail.com</a>
+							<a href="mailto:sankar@myassetz.in" class="text-dark">sankar@myassetz.in</a>
                         </li>
                     </ul>
                    
@@ -188,7 +188,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
                         <li><i class="fa-solid fa-chevron-right text-theme-colored1 mr-10"></i><a href="/blog">Blogs</a></li>
                         <!--<li><i class="fa-solid fa-chevron-right text-theme-colored1 mr-10"></i><a href="/news">News</a></li>-->
 						<li><i class="fa-solid fa-chevron-right text-theme-colored1 mr-10"></i><a href="/privacy-policy">Privacy Policy</a></li>
-						<li><i class="fa-solid fa-chevron-right text-theme-colored1 mr-10"></i><a href="/images/riskometer/SEBI-FP-tool.xlsx">SEBI FP tool</a></li>
+						<!--<li><i class="fa-solid fa-chevron-right text-theme-colored1 mr-10"></i><a href="/images/riskometer/SEBI-FP-tool.xlsx">SEBI FP tool</a></li>-->
                     </ul>
                 </div>
             </div>
@@ -228,7 +228,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
                     <p class="font-11 text-white m-0">&copy;2026 . Myassetz - All Rights Reserved</p>
                 </div>
 				<div class="col-md-6 text-right">
-				     <p class="font-11 text-white m-0">Design & Developed by Active Life Tech</p>
+				     <p class="font-11 text-white m-0">Designed & Developed by Active Life Tech</p>
 				  </div>
             </div>
         </div>

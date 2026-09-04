@@ -480,6 +480,15 @@ public class CommonController {
 		return "layout/layout";
 	}
 	
+	
+	@RequestMapping("/unlisted-equity")
+	public String unlisted_equity(HttpServletRequest request, HttpServletResponse response) 
+	{
+		request.setAttribute("page", "unlisted-equity");
+		request.setAttribute("jsp", "../common/unlisted-equity-blog.jsp");
+		return "layout/layout";
+	}
+	
 	@RequestMapping("/loan-service")
 	public String loan_service(HttpServletRequest request, HttpServletResponse response) 
 	{

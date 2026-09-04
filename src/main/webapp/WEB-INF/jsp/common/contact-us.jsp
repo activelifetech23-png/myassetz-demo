@@ -226,7 +226,7 @@ function isEmail(email) {
 									<div class="col-lg-12">
 										
 										<h5 class="text-theme-colored2 mt-10">Email</h5>
-										<p><a href="mailto:sankarfunds@gmail.com" class="text-dark">sankarfunds@gmail.com</a></p>
+										<p><a href="mailto:sankar@myassetz.in" class="text-dark">sankar@myassetz.in</a></p>
 									</div>
 		  							<div class="col-lg-12">
 		  								
