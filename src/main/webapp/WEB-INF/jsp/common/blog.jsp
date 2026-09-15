@@ -60,6 +60,42 @@
 .text-theme-colored2 {
     color: #003399 !important;
 }
+
+
+.nav-tabs > li.active a {
+		    color: #fff;
+		    background-color: #F9A003;
+		    border-color: #F9A003;
+		    padding: 10px 60px;
+		    border-radius: 10px;
+		    font-size: 18px;
+		}
+		.nav-tabs > li a {
+		    color: #ccccc;
+		    background-color:#fff;
+		    border-color: #cccccc;
+		    padding: 10px 60px;
+		    border-radius: 10px;
+		    font-size: 18px;
+		}
+		.nav-tabs > li.active a, .nav-tabs > li.active a:hover, .nav-tabs > li.active a:focus {
+		    color: #fff;
+		    background-color: #F9A003;
+		}
+		
+		.nav-tabs > li.active a, .nav-tabs > li.active a:hover{
+			background-color: #F9A003;
+			color:#fff;
+			
+		}
+		
+		.nav-tabs > li > a:hover, .nav-tabs > li > a:focus{
+			color:#fff !important;
+			background-color: #F9A003 !important;
+		}
+	
+
+
 </style>
     <!-- Main -->
     <main>
@@ -86,8 +122,23 @@
 
    	<section>
 		<div class="container">
-			<div class="row" id="blogcard">
-				<div class="col-md-4">
+			<div class="row">
+				<div class="col-lg-12">
+					<ul class="nav nav-tabs  ">
+					<li class="active pb-20 capital">
+            			<a href="#1" data-toggle="tab">Mutual Fund</a>
+					</li>
+				     <li class="pb-20" style="margin-left:15px;">
+						<a href="#2 " data-toggle="tab">Insurance</a>
+					</li>
+					<li class="pb-20" style="margin-left:15px;">
+						<a href="#3" data-toggle="tab">PMS</a>
+					</li>
+				</ul>
+				<div class="tab-content ">
+					<div class="tab-pane active" id="1">
+						<div class="row" id="blogcard">
+								<div class="col-md-4">
 											<a href="/unlisted-equity">
 						                  	<div class="card">
 												<div class="card-body">
@@ -123,44 +174,98 @@
 						
 			            
 			          </div>
-			
-					  <div class="row pt-30" id="blogcard">
+					<div class="row pt-30" id="blogcard">
 						<div class="col-md-4">
-													<a href="/blog-details/SIP-vs-Lumpsum-Which-Investment-Strategy-Is-Right-for-You">
-									              	<div class="card">
-														<div class="card-body">
-															<img class="img-fluid mb-20" src="/images/blog/large-cap.png">
-															<h5>SIP vs Lumpsum : Which Investment Strategy Is Right...</h5>
-														</div>
-														
-													</div>
-													</a>
-									        	</div>
-			  							   <div class="col-md-4">
-											<a href="/blog-details/Planting-Dreams-Early">
-			  			                  	<div class="card">
-			  									<div class="card-body">
-			  										<img class="img-fluid mb-20" src="/images/blog/children-image.png">
-			  										<h4>Planting Dreams Early ...</h4>
-			  									</div>
-			  									
-			  								</div>
-											</a>
-					  			            </div>
-					  						<div class="col-md-4">
-												<a href="/blog-details/Succession-Planning-for-Family-Businesses-in-India">
-					  			              	<div class="card">
-					  								<div class="card-body">
-					  									<img class="img-fluid mb-20" src="/images/blog/planning-family.png">
-					  									<h4>Succession Planning for Family Businesses in India ...</h4>
-					  								</div>
-					  								
-					  							</div>
-												</a>
-					  			        	</div>
-					  						
-					  			            
-					  			          </div>
+							<a href="/blog-details/SIP-vs-Lumpsum-Which-Investment-Strategy-Is-Right-for-You">
+								<div class="card">
+									<div class="card-body">
+										<img class="img-fluid mb-20" src="/images/blog/large-cap.png">
+										<h5>SIP vs Lumpsum : Which Investment Strategy Is Right...</h5>
+									</div>
+					
+								</div>
+							</a>
+						</div>
+						<div class="col-md-4">
+							<a href="/blog-details/Planting-Dreams-Early">
+								<div class="card">
+									<div class="card-body">
+										<img class="img-fluid mb-20" src="/images/blog/children-image.png">
+										<h4>Planting Dreams Early ...</h4>
+									</div>
+					
+								</div>
+							</a>
+						</div>
+						<div class="col-md-4">
+							<a href="/blog-details/Succession-Planning-for-Family-Businesses-in-India">
+								<div class="card">
+									<div class="card-body">
+										<img class="img-fluid mb-20" src="/images/blog/planning-family.png">
+										<h4>Succession Planning for Family Businesses in India ...</h4>
+									</div>
+					
+								</div>
+							</a>
+						</div>
+					
+					
+					</div>
+						
+					</div>
+					<div class="tab-pane " id="2">
+						<div class="row pt-30" id="blogcard">
+							<div class="col-md-4">
+									<a href="/blog-details/10-common-mistakes-people-make-when-buying-insurance">
+					              	<div class="card">
+										<div class="card-body">
+											<img class="img-fluid mb-20" src="/images/blog/life-vs-general.png">
+											<h5>10 Common Mistakes People Make When Buying...</h5>
+										</div>
+										
+									</div>
+									</a>
+					        	</div>
+						   <div class="col-md-4">
+							<a href="/blog-details/term-insurance-vs-life-insurance-Whats-the-difference">
+		                  	<div class="card">
+								<div class="card-body">
+									<img class="img-fluid mb-20" src="/images/blog/insurance-new-one.png">
+									<h5>Term Insurance vs Life Insurance: What's the ...</h5>
+								</div>
+								
+							</div>
+							</a>
+	  			            </div>
+	  						
+	  						
+	  			            
+	  			          </div>
+							
+					</div>
+					<div class="tab-pane " id="3">
+						<div class="row pt-30" id="blogcard">
+							<div class="col-md-4">
+									<a href="/blog-details/what-is-pms-a-complete-guide-for-indian-investors">
+					              	<div class="card">
+										<div class="card-body">
+											<img class="img-fluid mb-20" src="/images/blog/investment-growth-concept.png">
+											<h5>What Is PMS? A Complete Guide for Indian Investors...</h5>
+										</div>
+										
+									</div>
+									</a>
+					        	</div>
+						  
+	  							
+		  			            
+		  			          </div>
+												
+										</div>
+				</div>
+				</div>
+			</div>
+			
 					  				  
 		</div>
 	</section>			

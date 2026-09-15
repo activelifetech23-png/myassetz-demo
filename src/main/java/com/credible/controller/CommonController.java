@@ -615,6 +615,30 @@ public class CommonController {
 		return "layout/layout";
 	}
 	
+	@RequestMapping("/blog-details/term-insurance-vs-life-insurance-Whats-the-difference")
+	public String terminsurance_vs_life_insurance_Whats_the_difference (HttpServletRequest request, HttpServletResponse response) 
+	{
+		request.setAttribute("page", "term-insurance-vs-life-insurance");
+		request.setAttribute("jsp", "../common/term-insurance-vs-life-insurance.jsp");
+		return "layout/layout";
+	}
+	
+	@RequestMapping("/blog-details/10-common-mistakes-people-make-when-buying-insurance")
+	public String common_mistakes_people_make_when_buying_insurance(HttpServletRequest request, HttpServletResponse response) 
+	{
+		request.setAttribute("page", "common-mistakes-people-make-when-buying-insurance");
+		request.setAttribute("jsp", "../common/common-mistakes-people.jsp");
+		return "layout/layout";
+	}
+	
+	@RequestMapping("/blog-details/what-is-pms-a-complete-guide-for-indian-investors")
+	public String what_is_pms_a_complete_guide_for_indian_investors(HttpServletRequest request, HttpServletResponse response) 
+	{
+		request.setAttribute("page", "what-is-pms-a-complete-guide-for-indian-investors");
+		request.setAttribute("jsp", "../common/what-Is-pms.jsp");
+		return "layout/layout";
+	}
+	
 	@RequestMapping("/blog-details/Planting-Dreams-Early")
 	public String Planting_Dreams_Early(HttpServletRequest request, HttpServletResponse response) 
 	{
