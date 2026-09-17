@@ -21,7 +21,7 @@
     padding: 8px 8px;
     display: inline-block;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 600;
     color: #3b3030;
     outline: 0;
@@ -167,6 +167,7 @@
                 </ul>
               </li>
                <li><a href="/contactus">Contact Us</a></li>
+			   <li><a href="/blog">Blogs</a></li>
 			   <li><a href="#">Resources</a>
                <ul class="dropdown mt-10">
    		  		
