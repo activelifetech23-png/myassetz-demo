@@ -313,7 +313,7 @@
 						        financial goal in the future.
 						    </p>                      
 							<h4 class="pt-10">Download Xl here</h4>
-							<a href="/xl-folder/Liabilities_Summary.xlsx"><img src="/xl-folder/xl.webp" width="150px"></a>
+							<a href="/xl-folder/Other_Goals_Calculator.xlsx"><img src="/xl-folder/xl.webp" width="150px"></a>
 																	
 							
 						</div>

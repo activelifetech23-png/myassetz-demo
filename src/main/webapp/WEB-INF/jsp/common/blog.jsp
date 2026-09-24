@@ -134,6 +134,15 @@
 					<li class="pb-20" style="margin-left:15px;">
 						<a href="#3" data-toggle="tab">PMS</a>
 					</li>
+					<li class="pb-20" style="margin-left:15px;">
+						<a href="#4" data-toggle="tab">Bonds</a>
+					</li>
+					<li class="pb-20" style="margin-left:15px;">
+						<a href="#5" data-toggle="tab">Unlisted Shares</a>
+					</li>
+					<li class="pb-20" style="margin-left:15px;">
+						<a href="#6" data-toggle="tab">NPS</a>
+					</li>
 				</ul>
 				<div class="tab-content ">
 					<div class="tab-pane active" id="1">

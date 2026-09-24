@@ -173,7 +173,7 @@
    		  		
    				<li><a href="https://investor.sebi.gov.in/financial_health_check.html">Financial health check link</a></li>
 				<li><a href="/budgeting-and-cash-flow">Budgeting and cash flow</a></li>
-				<li><a href="/blog">Blogs</a></li>
+				<!--<li><a href="/blog">Blogs</a></li>-->
    		  	</ul>	
    		  	</li>
               <li class="active pull-right pl-lg-5"><a href="https://www.assetplus.in/#!/login"  class="font-14 line-height-2"><i class="fa fa-user-o mr-5 font-14"></i> Login</a></li>
