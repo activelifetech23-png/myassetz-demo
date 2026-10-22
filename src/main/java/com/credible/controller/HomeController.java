@@ -924,7 +924,7 @@ public class HomeController {
 		return "layout/layout";
 	}
 
-	@RequestMapping(value = "/aif")
+	@RequestMapping(value = "/aif-and-reits")
 	public String aif(HttpServletRequest request, HttpServletResponse response) {
 		try {
 			// List<MutualFunds> list = commonDao.getAllMutualFunds();

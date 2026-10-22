@@ -3264,9 +3264,9 @@ $(document).ready(function(){
 					<div class="card service-card-green">
 						<div class="card-body">
 							<img src="/images/about/promotion.png" class="img-fluid img-green">
-							<h4 class="mt-20">AIF</h4>
+							<h4 class="mt-20">AIF & REITs</h4>
 							<p>Alternative Investment Funds or AIF in short, are defined as privately...</p>
-							<a href="/aif"><img src="/images/about/right-arrow.png" class="img-fluid"></a>
+							<a href="/aif-and-reits"><img src="/images/about/right-arrow.png" class="img-fluid"></a>
 						</div>
 					</div>
 				</div>

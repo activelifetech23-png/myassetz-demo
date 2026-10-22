@@ -136,7 +136,7 @@
 					<li><a href="/insurance">Insurance</a></li>
 					<li><a href="/pms">PMS</a></li>
 					<li><a href="/bonds-and-ncd">Bonds</a></li>
-					<li><a href="/aif">AIF</a></li>
+					<li><a href="/aif-and-reits">AIF & REITs</a></li>
 					<li><a href="/unlisted-shares">Unlisted shares</a></li>
 					<li><a href="/national-pension-scheme">National Pension Scheme</a></li>
                  	
