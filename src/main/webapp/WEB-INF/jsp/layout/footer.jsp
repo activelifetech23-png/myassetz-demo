@@ -111,10 +111,10 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 }
 .menuzord-menu > li > a {
     font-family: 'Montserrat', sans-serif;
-    padding: 7px 9px;
+    padding: 7px 6px;
     display: inline-block;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 12px;
     font-weight: 600;
     color: #3b3030;
     outline: 0;
@@ -205,6 +205,12 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
                 </div>
                
             </div>
+			<div style="position:fixed; bottom:50%; left:10px;z-index:2000;padding:15px 22px;border-radius:50%;font-size:20px;background:#0264D2;">
+                    
+                    <a class="icon icon-sm icon-secondary me-2" href="https://www.linkedin.com/in/finrobosankar/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM67zRoPXSmq39VylUEFw%2Bw%3D%3D">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                </div>
         </div>
 
         <div class="row mt-4">
