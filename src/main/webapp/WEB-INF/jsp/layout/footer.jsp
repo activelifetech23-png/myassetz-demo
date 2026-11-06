@@ -211,6 +211,16 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
                         <i class="fab fa-linkedin-in"></i>
                     </a>
                 </div>
+            <div style="position:fixed; bottom:calc(50% - 62px); left:10px; z-index:2000; width:52px; height:52px; border-radius:50%; background:#1877F2; display:flex; align-items:center; justify-content:center;">
+                    <a href="https://www.facebook.com/sankar.venkatraman.1/" target="_blank" rel="noopener" aria-label="Facebook" style="color:#fff; font-size:20px; line-height:1;">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                </div>
+            <div style="position:fixed; bottom:calc(50% - 124px); left:10px; z-index:2000; width:52px; height:52px; border-radius:50%; background:#25D366; display:flex; align-items:center; justify-content:center;">
+                    <a href="https://wa.me/919840961174" target="_blank" rel="noopener" aria-label="WhatsApp" style="color:#fff; font-size:24px; line-height:1;">
+                        <i class="fab fa-whatsapp"></i>
+                    </a>
+                </div>
         </div>
 
         <div class="row mt-4">
